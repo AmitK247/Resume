@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Amit Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/75785079?s…00&u=7edd67d2368d67503d0e1a928a25f9bb3614549c&v=4",
+		"email": "2020kucp1086@iiitkota.ac.in",
+		"phone": "9467059516",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have enthusiasm in Full Stack development and App development.",
+		"location": {
+			"address": "H.No. 1323 Patel Nagar",
+			"postalCode": "122001",
+			"city": "Gurugram",
+			"countryCode": "India",
+			"region": "Haryana"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "AmitKum59322135",
+				"url": "https://twitter.com/AmitKum59322135"
+			},
+			{
+				"network": "Github",
+				"username": "AmitK247",
+				"url": "https://github.com/AmitK247/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Amit Kumar",
+				"url": "https://www.linkedin.com/in/amit-kumar-083760203/"
+			},
+			{
+				"network": "Instagram",
+				"username": "amitkf247",
+				"url": "https://www.instagram.com/amitkf247/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-03-12",
+		"endDate": "----",
+		"gpa": "8.4",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C", "PHP","MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	},{
+		"name": "Arts",
+		"keywords": ["Sketching", "Shading"]
+	}],
+	"references": []
+}
